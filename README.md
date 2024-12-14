@@ -721,7 +721,10 @@ contact.html
             </form>
         </div>
     </section>
-
+    <footer>
+        Designedby,dhanus karthi
+              [24005701]
+    </footer>
 </body>
 </html>
 ```
@@ -734,7 +737,7 @@ MENU PAGE
 ![alt text](myproject/myapp/static/menu.png)
 
 CONTACT PAGE
-![alt text](myproject/myapp/static/contact.png)
+![alt text](myproject/myapp/static/contact.jpg)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
